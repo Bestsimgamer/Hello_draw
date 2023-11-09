@@ -12,7 +12,7 @@ import processing.core.PApplet;
         }
     
         public void setup() {
-            background(0);
+            background(60);
         }
     
         public void draw() {
